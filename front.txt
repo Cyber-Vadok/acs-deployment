@@ -1,0 +1,4 @@
+Administration and REST APIs	http://localhost:8080/alfresco
+Share				http://localhost:8080/share
+Alfresco Content App		http://localhost:8080/content-app
+Search Services administration	http://localhost:8083/solr
